@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Grace Christian College</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="contact">
+        Tel: \t (632) 366-2000 loc. 109\n
+             \t\t\t 364-7435\n
+             \t\t\t 364-8914\n
+        \n
+        Telefax: (632) 364-1971\n
+        \n
+        Email: info@gcc.edu.ph\n
+        \n
+        Website: www.gcc.edu.ph\n
+    </string>
+    <string name="acads">
+        All colleges are committed to the pursuit of academic excellence and the integration of biblical principles that will produce coveted global godly leaders.
+        \n\n\n\n
+        Grace Christian College offers 5 degree programs namely:\n\n
+        \t\t\t > Bachelor of Science in Information Technology
+\n\n
+        \t\t\t > Bachelor of Science in Electronics and Communications Engineering
+\n\n
+        \t\t\t > Bachelor in Secondary Education
+\n\n
+        \t\t\t > Bachelor of Science in Accountancy
+\n\n
+        \t\t\t > Bachelor of Science in Human Resources and OperationsManagement
+\n\n\n\n
+        Last June 2009, another five (5) programs were added:
+\n\n
+        \t\t\t > Associate Bachelors in English
+\n\n
+        \t\t\t > Bachelor of Science in Biology
+\n\n
+        \t\t\t > Bachelor of Science in Psychology
+\n\n
+        \t\t\t > Bachelor of Science in Math
+\n\n
+        \t\t\t > Bachelor in Elementary Education Major in Teaching Chinese as a Secondary Language/Special Education/Pre-school Education/Elementary Education
+        \n\n\n\n
+        The curricula of all of the above-mentioned programs incorporate Chinese language teaching specifically aimed at developing superior level language proficiency among the students.
+
+
+    </string>
+</resources>
